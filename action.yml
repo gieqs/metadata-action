@@ -18,7 +18,7 @@ inputs:
     required: false
   labels:
     description: 'List of custom labels'
-    required: false
+    required: true
   sep-tags:
     description: 'Separator to use for tags output (default \n)'
     required: false
